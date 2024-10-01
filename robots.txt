@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://toihrr.github.io/Thw/sitemap.Thw.gz
